@@ -1,0 +1,13 @@
+com\mycompany\petbuddyy\helper\FactoryProvider.class
+com\mycompany\petbuddyy\servlets\ProductOperationServlet.class
+com\mycompany\petbuddyy\servlets\LogoutServlet.class
+com\mycompany\petbuddyy\dao\ProductDao.class
+com\mycompany\petbuddyy\entities\category.class
+com\mycompany\petbuddyy\servlets\httpSession.class
+com\mycompany\petbuddyy\entities\product.class
+com\mycompany\petbuddyy\dao\CategoryDao.class
+com\mycompany\petbuddyy\servlets\RegisterServlet.class
+com\mycompany\petbuddyy\entities\user.class
+com\mycompany\petbuddyy\helper\Helper.class
+com\mycompany\petbuddyy\dao\UserDao.class
+com\mycompany\petbuddyy\servlets\LoginServlet.class
